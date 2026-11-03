@@ -1,0 +1,6 @@
+city,forecasts_checked,average_actual_aqi,aqi_mae,aqi_mae_persistence,category_accuracy,category_accuracy_persistence,main_pollutant_accuracy
+Bengaluru,217,74.611,10.086,11.181,0.816,0.801,0.935
+Chennai,217,68.723,14.217,15.96,0.682,0.635,0.678
+Delhi,217,349.476,37.957,42.032,0.719,0.669,0.88
+Kolkata,217,159.292,24.876,26.979,0.73,0.697,0.836
+Mumbai,217,128.953,10.31,10.997,0.99,1.0,0.83

@@ -1,0 +1,421 @@
+city,date,holiday,pollutant,holiday_mean,normal_days_mean,change_percent
+Delhi,2024-01-26,Republic Day,pm25,282.651,188.921,49.6
+Delhi,2024-01-26,Republic Day,pm10,428.298,302.018,41.8
+Delhi,2024-01-26,Republic Day,no2,49.136,43.573,12.8
+Delhi,2024-01-26,Republic Day,so2,9.108,8.949,1.8
+Delhi,2024-01-26,Republic Day,co,2.111,1.468,43.8
+Delhi,2024-01-26,Republic Day,o3,18.779,14.755,27.3
+Delhi,2024-03-25,Holi,pm25,92.263,79.308,16.3
+Delhi,2024-03-25,Holi,pm10,161.084,190.886,-15.6
+Delhi,2024-03-25,Holi,no2,22.32,35.949,-37.9
+Delhi,2024-03-25,Holi,so2,15.983,16.499,-3.1
+Delhi,2024-03-25,Holi,co,1.011,1.082,-6.6
+Delhi,2024-03-25,Holi,o3,21.741,27.454,-20.8
+Delhi,2024-04-11,Eid ul-Fitr,pm25,80.769,65.484,23.3
+Delhi,2024-04-11,Eid ul-Fitr,pm10,235.477,179.889,30.9
+Delhi,2024-04-11,Eid ul-Fitr,no2,49.079,40.971,19.8
+Delhi,2024-04-11,Eid ul-Fitr,so2,17.669,16.963,4.2
+Delhi,2024-04-11,Eid ul-Fitr,co,1.135,0.936,21.2
+Delhi,2024-04-11,Eid ul-Fitr,o3,44.975,35.364,27.2
+Delhi,2024-06-17,Eid al-Adha,pm25,48.182,54.728,-12.0
+Delhi,2024-06-17,Eid al-Adha,pm10,192.045,193.185,-0.6
+Delhi,2024-06-17,Eid al-Adha,no2,24.674,29.331,-15.9
+Delhi,2024-06-17,Eid al-Adha,so2,17.589,14.047,25.2
+Delhi,2024-06-17,Eid al-Adha,co,0.893,0.935,-4.5
+Delhi,2024-06-17,Eid al-Adha,o3,36.873,43.751,-15.7
+Delhi,2024-08-15,Independence Day,pm25,25.033,25.367,-1.3
+Delhi,2024-08-15,Independence Day,pm10,56.158,59.624,-5.8
+Delhi,2024-08-15,Independence Day,no2,20.149,23.415,-13.9
+Delhi,2024-08-15,Independence Day,so2,7.312,8.086,-9.6
+Delhi,2024-08-15,Independence Day,co,0.794,0.831,-4.4
+Delhi,2024-08-15,Independence Day,o3,21.108,21.462,-1.7
+Delhi,2024-08-26,Janmashtami,pm25,26.992,30.791,-12.3
+Delhi,2024-08-26,Janmashtami,pm10,60.438,73.06,-17.3
+Delhi,2024-08-26,Janmashtami,no2,19.758,22.867,-13.6
+Delhi,2024-08-26,Janmashtami,so2,7.058,7.797,-9.5
+Delhi,2024-08-26,Janmashtami,co,0.754,0.881,-14.5
+Delhi,2024-08-26,Janmashtami,o3,24.51,22.765,7.7
+Delhi,2024-09-07,Ganesh Chaturthi,pm25,26.592,31.461,-15.5
+Delhi,2024-09-07,Ganesh Chaturthi,pm10,56.684,70.719,-19.8
+Delhi,2024-09-07,Ganesh Chaturthi,no2,27.575,22.473,22.7
+Delhi,2024-09-07,Ganesh Chaturthi,so2,8.01,7.726,3.7
+Delhi,2024-09-07,Ganesh Chaturthi,co,0.899,0.88,2.2
+Delhi,2024-09-07,Ganesh Chaturthi,o3,18.74,19.569,-4.2
+Delhi,2024-10-02,Gandhi Jayanti,pm25,69.263,46.337,49.5
+Delhi,2024-10-02,Gandhi Jayanti,pm10,179.486,122.066,47.0
+Delhi,2024-10-02,Gandhi Jayanti,no2,33.239,27.826,19.5
+Delhi,2024-10-02,Gandhi Jayanti,so2,8.332,8.976,-7.2
+Delhi,2024-10-02,Gandhi Jayanti,co,1.304,0.985,32.4
+Delhi,2024-10-02,Gandhi Jayanti,o3,25.392,25.043,1.4
+Delhi,2024-10-11,Durga Puja (Navami),pm25,58.997,80.845,-27.0
+Delhi,2024-10-11,Durga Puja (Navami),pm10,143.324,200.712,-28.6
+Delhi,2024-10-11,Durga Puja (Navami),no2,33.804,39.936,-15.4
+Delhi,2024-10-11,Durga Puja (Navami),so2,9.893,10.908,-9.3
+Delhi,2024-10-11,Durga Puja (Navami),co,1.062,1.39,-23.6
+Delhi,2024-10-11,Durga Puja (Navami),o3,35.59,28.237,26.0
+Delhi,2024-10-12,Dussehra,pm25,71.656,82.265,-12.9
+Delhi,2024-10-12,Dussehra,pm10,167.397,203.684,-17.8
+Delhi,2024-10-12,Dussehra,no2,40.143,40.443,-0.7
+Delhi,2024-10-12,Dussehra,so2,10.219,11.085,-7.8
+Delhi,2024-10-12,Dussehra,co,1.256,1.389,-9.6
+Delhi,2024-10-12,Dussehra,o3,32.722,28.837,13.5
+Delhi,2024-10-31,Diwali,pm25,208.111,182.004,14.3
+Delhi,2024-10-31,Diwali,pm10,341.183,318.357,7.2
+Delhi,2024-10-31,Diwali,no2,39.656,48.582,-18.4
+Delhi,2024-10-31,Diwali,so2,15.457,13.42,15.2
+Delhi,2024-10-31,Diwali,co,1.398,1.787,-21.7
+Delhi,2024-10-31,Diwali,o3,23.954,29.912,-19.9
+Delhi,2024-11-01,Day after Diwali,pm25,215.663,183.166,17.7
+Delhi,2024-11-01,Day after Diwali,pm10,345.683,323.069,7.0
+Delhi,2024-11-01,Day after Diwali,no2,34.412,50.296,-31.6
+Delhi,2024-11-01,Day after Diwali,so2,21.138,12.979,62.9
+Delhi,2024-11-01,Day after Diwali,co,1.355,1.83,-25.9
+Delhi,2024-11-01,Day after Diwali,o3,26.166,30.084,-13.0
+Delhi,2024-11-15,Guru Nanak Jayanti,pm25,265.501,291.421,-8.9
+Delhi,2024-11-15,Guru Nanak Jayanti,pm10,421.235,434.222,-3.0
+Delhi,2024-11-15,Guru Nanak Jayanti,no2,49.925,50.47,-1.1
+Delhi,2024-11-15,Guru Nanak Jayanti,so2,11.029,12.238,-9.9
+Delhi,2024-11-15,Guru Nanak Jayanti,co,2.006,2.03,-1.2
+Delhi,2024-11-15,Guru Nanak Jayanti,o3,27.156,29.011,-6.4
+Delhi,2024-12-25,Christmas,pm25,185.024,211.531,-12.5
+Delhi,2024-12-25,Christmas,pm10,268.789,307.539,-12.6
+Delhi,2024-12-25,Christmas,no2,53.594,57.435,-6.7
+Delhi,2024-12-25,Christmas,so2,11.534,10.558,9.2
+Delhi,2024-12-25,Christmas,co,1.631,1.645,-0.8
+Delhi,2024-12-25,Christmas,o3,18.772,21.742,-13.7
+Mumbai,2024-01-26,Republic Day,pm25,55.266,47.894,15.4
+Mumbai,2024-01-26,Republic Day,pm10,121.143,105.542,14.8
+Mumbai,2024-01-26,Republic Day,no2,29.971,27.436,9.2
+Mumbai,2024-01-26,Republic Day,so2,11.05,10.244,7.9
+Mumbai,2024-01-26,Republic Day,co,0.876,0.653,34.2
+Mumbai,2024-01-26,Republic Day,o3,29.361,24.617,19.3
+Mumbai,2024-03-25,Holi,pm25,29.025,37.667,-22.9
+Mumbai,2024-03-25,Holi,pm10,65.821,100.404,-34.4
+Mumbai,2024-03-25,Holi,no2,17.47,23.797,-26.6
+Mumbai,2024-03-25,Holi,so2,6.175,8.604,-28.2
+Mumbai,2024-03-25,Holi,co,0.589,0.612,-3.7
+Mumbai,2024-03-25,Holi,o3,22.333,27.856,-19.8
+Mumbai,2024-04-11,Eid ul-Fitr,pm25,27.79,32.449,-14.4
+Mumbai,2024-04-11,Eid ul-Fitr,pm10,76.299,87.207,-12.5
+Mumbai,2024-04-11,Eid ul-Fitr,no2,18.726,18.13,3.3
+Mumbai,2024-04-11,Eid ul-Fitr,so2,7.469,7.099,5.2
+Mumbai,2024-04-11,Eid ul-Fitr,co,0.496,0.512,-3.0
+Mumbai,2024-04-11,Eid ul-Fitr,o3,36.655,34.875,5.1
+Mumbai,2024-06-17,Eid al-Adha,pm25,13.941,12.757,9.3
+Mumbai,2024-06-17,Eid al-Adha,pm10,48.774,38.663,26.2
+Mumbai,2024-06-17,Eid al-Adha,no2,15.084,16.361,-7.8
+Mumbai,2024-06-17,Eid al-Adha,so2,7.06,6.4,10.3
+Mumbai,2024-06-17,Eid al-Adha,co,0.539,0.519,3.8
+Mumbai,2024-06-17,Eid al-Adha,o3,13.953,15.379,-9.3
+Mumbai,2024-08-15,Independence Day,pm25,11.339,13.352,-15.1
+Mumbai,2024-08-15,Independence Day,pm10,38.042,41.285,-7.9
+Mumbai,2024-08-15,Independence Day,no2,10.899,13.239,-17.7
+Mumbai,2024-08-15,Independence Day,so2,5.614,5.227,7.4
+Mumbai,2024-08-15,Independence Day,co,0.355,0.394,-10.1
+Mumbai,2024-08-15,Independence Day,o3,11.073,11.363,-2.6
+Mumbai,2024-08-26,Janmashtami,pm25,10.8,13.583,-20.5
+Mumbai,2024-08-26,Janmashtami,pm10,37.854,40.551,-6.7
+Mumbai,2024-08-26,Janmashtami,no2,11.648,13.327,-12.6
+Mumbai,2024-08-26,Janmashtami,so2,4.298,4.784,-10.1
+Mumbai,2024-08-26,Janmashtami,co,0.272,0.382,-28.7
+Mumbai,2024-08-26,Janmashtami,o3,12.635,11.01,14.8
+Mumbai,2024-09-07,Ganesh Chaturthi,pm25,9.964,11.732,-15.1
+Mumbai,2024-09-07,Ganesh Chaturthi,pm10,32.509,38.022,-14.5
+Mumbai,2024-09-07,Ganesh Chaturthi,no2,10.445,11.312,-7.7
+Mumbai,2024-09-07,Ganesh Chaturthi,so2,5.212,4.562,14.3
+Mumbai,2024-09-07,Ganesh Chaturthi,co,0.291,0.309,-5.7
+Mumbai,2024-09-07,Ganesh Chaturthi,o3,10.145,10.813,-6.2
+Mumbai,2024-10-02,Gandhi Jayanti,pm25,40.428,18.747,115.6
+Mumbai,2024-10-02,Gandhi Jayanti,pm10,82.404,45.145,82.5
+Mumbai,2024-10-02,Gandhi Jayanti,no2,15.991,16.244,-1.6
+Mumbai,2024-10-02,Gandhi Jayanti,so2,6.61,6.013,9.9
+Mumbai,2024-10-02,Gandhi Jayanti,co,0.591,0.401,47.3
+Mumbai,2024-10-02,Gandhi Jayanti,o3,22.0,16.134,36.4
+Mumbai,2024-10-11,Durga Puja (Navami),pm25,17.785,26.242,-32.2
+Mumbai,2024-10-11,Durga Puja (Navami),pm10,38.905,59.449,-34.6
+Mumbai,2024-10-11,Durga Puja (Navami),no2,17.439,18.329,-4.9
+Mumbai,2024-10-11,Durga Puja (Navami),so2,5.728,6.041,-5.2
+Mumbai,2024-10-11,Durga Puja (Navami),co,0.411,0.471,-12.7
+Mumbai,2024-10-11,Durga Puja (Navami),o3,23.373,18.365,27.3
+Mumbai,2024-10-12,Dussehra,pm25,22.071,26.663,-17.2
+Mumbai,2024-10-12,Dussehra,pm10,44.07,59.633,-26.1
+Mumbai,2024-10-12,Dussehra,no2,18.566,18.639,-0.4
+Mumbai,2024-10-12,Dussehra,so2,5.888,6.001,-1.9
+Mumbai,2024-10-12,Dussehra,co,0.473,0.466,1.6
+Mumbai,2024-10-12,Dussehra,o3,19.999,18.662,7.2
+Mumbai,2024-10-31,Diwali,pm25,70.831,57.344,23.5
+Mumbai,2024-10-31,Diwali,pm10,147.116,124.035,18.6
+Mumbai,2024-10-31,Diwali,no2,20.471,20.685,-1.0
+Mumbai,2024-10-31,Diwali,so2,7.856,7.969,-1.4
+Mumbai,2024-10-31,Diwali,co,0.552,0.518,6.6
+Mumbai,2024-10-31,Diwali,o3,25.681,29.014,-11.5
+Mumbai,2024-11-01,Day after Diwali,pm25,69.096,55.609,24.3
+Mumbai,2024-11-01,Day after Diwali,pm10,138.599,122.393,13.2
+Mumbai,2024-11-01,Day after Diwali,no2,18.572,20.986,-11.5
+Mumbai,2024-11-01,Day after Diwali,so2,8.646,8.055,7.3
+Mumbai,2024-11-01,Day after Diwali,co,0.512,0.517,-0.9
+Mumbai,2024-11-01,Day after Diwali,o3,26.408,29.893,-11.7
+Mumbai,2024-11-15,Guru Nanak Jayanti,pm25,57.701,58.942,-2.1
+Mumbai,2024-11-15,Guru Nanak Jayanti,pm10,130.781,132.777,-1.5
+Mumbai,2024-11-15,Guru Nanak Jayanti,no2,26.404,23.078,14.4
+Mumbai,2024-11-15,Guru Nanak Jayanti,so2,8.464,8.613,-1.7
+Mumbai,2024-11-15,Guru Nanak Jayanti,co,0.602,0.525,14.6
+Mumbai,2024-11-15,Guru Nanak Jayanti,o3,26.519,36.158,-26.7
+Mumbai,2024-12-25,Christmas,pm25,72.346,67.237,7.6
+Mumbai,2024-12-25,Christmas,pm10,156.546,148.828,5.2
+Mumbai,2024-12-25,Christmas,no2,31.177,26.344,18.3
+Mumbai,2024-12-25,Christmas,so2,9.098,9.749,-6.7
+Mumbai,2024-12-25,Christmas,co,0.63,0.683,-7.9
+Mumbai,2024-12-25,Christmas,o3,32.625,31.723,2.8
+Bengaluru,2024-01-26,Republic Day,pm25,30.05,42.764,-29.7
+Bengaluru,2024-01-26,Republic Day,pm10,68.705,92.252,-25.5
+Bengaluru,2024-01-26,Republic Day,no2,19.789,18.251,8.4
+Bengaluru,2024-01-26,Republic Day,so2,7.648,7.148,7.0
+Bengaluru,2024-01-26,Republic Day,co,0.651,0.632,3.0
+Bengaluru,2024-01-26,Republic Day,o3,29.329,27.005,8.6
+Bengaluru,2024-03-25,Holi,pm25,39.562,42.617,-7.2
+Bengaluru,2024-03-25,Holi,pm10,79.017,85.794,-7.9
+Bengaluru,2024-03-25,Holi,no2,13.789,14.296,-3.6
+Bengaluru,2024-03-25,Holi,so2,7.593,8.233,-7.8
+Bengaluru,2024-03-25,Holi,co,0.49,0.544,-9.9
+Bengaluru,2024-03-25,Holi,o3,30.015,31.408,-4.4
+Bengaluru,2024-04-11,Eid ul-Fitr,pm25,29.088,32.927,-11.7
+Bengaluru,2024-04-11,Eid ul-Fitr,pm10,60.033,70.899,-15.3
+Bengaluru,2024-04-11,Eid ul-Fitr,no2,13.048,13.729,-5.0
+Bengaluru,2024-04-11,Eid ul-Fitr,so2,7.49,7.682,-2.5
+Bengaluru,2024-04-11,Eid ul-Fitr,co,0.489,0.504,-3.0
+Bengaluru,2024-04-11,Eid ul-Fitr,o3,32.053,29.745,7.8
+Bengaluru,2024-06-17,Eid al-Adha,pm25,14.19,16.313,-13.0
+Bengaluru,2024-06-17,Eid al-Adha,pm10,38.089,40.214,-5.3
+Bengaluru,2024-06-17,Eid al-Adha,no2,13.197,13.337,-1.0
+Bengaluru,2024-06-17,Eid al-Adha,so2,7.259,7.364,-1.4
+Bengaluru,2024-06-17,Eid al-Adha,co,0.5,0.477,4.7
+Bengaluru,2024-06-17,Eid al-Adha,o3,28.313,29.211,-3.1
+Bengaluru,2024-08-15,Independence Day,pm25,23.941,21.227,12.8
+Bengaluru,2024-08-15,Independence Day,pm10,53.243,47.501,12.1
+Bengaluru,2024-08-15,Independence Day,no2,16.777,16.531,1.5
+Bengaluru,2024-08-15,Independence Day,so2,7.675,7.956,-3.5
+Bengaluru,2024-08-15,Independence Day,co,0.702,0.602,16.7
+Bengaluru,2024-08-15,Independence Day,o3,26.036,25.826,0.8
+Bengaluru,2024-08-26,Janmashtami,pm25,16.144,18.745,-13.9
+Bengaluru,2024-08-26,Janmashtami,pm10,39.426,42.626,-7.5
+Bengaluru,2024-08-26,Janmashtami,no2,14.418,16.377,-12.0
+Bengaluru,2024-08-26,Janmashtami,so2,9.0,8.641,4.2
+Bengaluru,2024-08-26,Janmashtami,co,0.534,0.533,0.1
+Bengaluru,2024-08-26,Janmashtami,o3,30.136,25.759,17.0
+Bengaluru,2024-09-07,Ganesh Chaturthi,pm25,19.684,20.539,-4.2
+Bengaluru,2024-09-07,Ganesh Chaturthi,pm10,45.071,47.276,-4.7
+Bengaluru,2024-09-07,Ganesh Chaturthi,no2,13.198,15.499,-14.8
+Bengaluru,2024-09-07,Ganesh Chaturthi,so2,8.255,8.124,1.6
+Bengaluru,2024-09-07,Ganesh Chaturthi,co,0.474,0.54,-12.3
+Bengaluru,2024-09-07,Ganesh Chaturthi,o3,22.889,21.636,5.8
+Bengaluru,2024-10-02,Gandhi Jayanti,pm25,25.762,26.265,-1.9
+Bengaluru,2024-10-02,Gandhi Jayanti,pm10,44.962,51.627,-12.9
+Bengaluru,2024-10-02,Gandhi Jayanti,no2,18.009,16.747,7.5
+Bengaluru,2024-10-02,Gandhi Jayanti,so2,7.895,8.053,-2.0
+Bengaluru,2024-10-02,Gandhi Jayanti,co,0.72,0.593,21.3
+Bengaluru,2024-10-02,Gandhi Jayanti,o3,22.966,22.285,3.1
+Bengaluru,2024-10-11,Durga Puja (Navami),pm25,24.853,22.7,9.5
+Bengaluru,2024-10-11,Durga Puja (Navami),pm10,43.342,43.576,-0.5
+Bengaluru,2024-10-11,Durga Puja (Navami),no2,19.636,18.326,7.1
+Bengaluru,2024-10-11,Durga Puja (Navami),so2,6.594,7.036,-6.3
+Bengaluru,2024-10-11,Durga Puja (Navami),co,0.554,0.608,-8.9
+Bengaluru,2024-10-11,Durga Puja (Navami),o3,21.23,20.963,1.3
+Bengaluru,2024-10-12,Dussehra,pm25,17.287,23.137,-25.3
+Bengaluru,2024-10-12,Dussehra,pm10,29.62,44.557,-33.5
+Bengaluru,2024-10-12,Dussehra,no2,19.57,18.671,4.8
+Bengaluru,2024-10-12,Dussehra,so2,6.222,6.942,-10.4
+Bengaluru,2024-10-12,Dussehra,co,0.531,0.61,-13.0
+Bengaluru,2024-10-12,Dussehra,o3,19.46,21.111,-7.8
+Bengaluru,2024-10-31,Diwali,pm25,63.841,43.516,46.7
+Bengaluru,2024-10-31,Diwali,pm10,120.169,91.88,30.8
+Bengaluru,2024-10-31,Diwali,no2,17.526,17.832,-1.7
+Bengaluru,2024-10-31,Diwali,so2,7.063,7.836,-9.9
+Bengaluru,2024-10-31,Diwali,co,0.891,0.878,1.5
+Bengaluru,2024-10-31,Diwali,o3,24.321,22.489,8.1
+Bengaluru,2024-11-01,Day after Diwali,pm25,60.855,44.032,38.2
+Bengaluru,2024-11-01,Day after Diwali,pm10,107.155,95.019,12.8
+Bengaluru,2024-11-01,Day after Diwali,no2,21.655,18.345,18.0
+Bengaluru,2024-11-01,Day after Diwali,so2,10.603,7.781,36.3
+Bengaluru,2024-11-01,Day after Diwali,co,1.173,0.865,35.6
+Bengaluru,2024-11-01,Day after Diwali,o3,20.203,22.155,-8.8
+Bengaluru,2024-11-15,Guru Nanak Jayanti,pm25,21.007,37.077,-43.3
+Bengaluru,2024-11-15,Guru Nanak Jayanti,pm10,43.58,80.32,-45.7
+Bengaluru,2024-11-15,Guru Nanak Jayanti,no2,16.607,18.824,-11.8
+Bengaluru,2024-11-15,Guru Nanak Jayanti,so2,11.022,9.644,14.3
+Bengaluru,2024-11-15,Guru Nanak Jayanti,co,0.911,0.901,1.1
+Bengaluru,2024-11-15,Guru Nanak Jayanti,o3,21.422,23.151,-7.5
+Bengaluru,2024-12-25,Christmas,pm25,28.736,31.978,-10.1
+Bengaluru,2024-12-25,Christmas,pm10,64.826,69.062,-6.1
+Bengaluru,2024-12-25,Christmas,no2,16.005,17.293,-7.4
+Bengaluru,2024-12-25,Christmas,so2,8.862,8.945,-0.9
+Bengaluru,2024-12-25,Christmas,co,0.721,0.711,1.4
+Bengaluru,2024-12-25,Christmas,o3,25.714,24.577,4.6
+Kolkata,2024-01-26,Republic Day,pm25,114.77,95.758,19.9
+Kolkata,2024-01-26,Republic Day,pm10,192.898,165.869,16.3
+Kolkata,2024-01-26,Republic Day,no2,29.527,25.689,14.9
+Kolkata,2024-01-26,Republic Day,so2,12.586,12.341,2.0
+Kolkata,2024-01-26,Republic Day,co,1.022,0.853,19.8
+Kolkata,2024-01-26,Republic Day,o3,31.002,26.61,16.5
+Kolkata,2024-03-25,Holi,pm25,25.955,36.079,-28.1
+Kolkata,2024-03-25,Holi,pm10,58.774,77.947,-24.6
+Kolkata,2024-03-25,Holi,no2,12.156,17.321,-29.8
+Kolkata,2024-03-25,Holi,so2,8.548,10.229,-16.4
+Kolkata,2024-03-25,Holi,co,0.346,0.526,-34.3
+Kolkata,2024-03-25,Holi,o3,33.575,37.776,-11.1
+Kolkata,2024-04-11,Eid ul-Fitr,pm25,67.755,40.091,69.0
+Kolkata,2024-04-11,Eid ul-Fitr,pm10,140.423,84.687,65.8
+Kolkata,2024-04-11,Eid ul-Fitr,no2,43.224,20.844,107.4
+Kolkata,2024-04-11,Eid ul-Fitr,so2,16.696,10.561,58.1
+Kolkata,2024-04-11,Eid ul-Fitr,co,1.045,0.561,86.4
+Kolkata,2024-04-11,Eid ul-Fitr,o3,33.836,48.719,-30.5
+Kolkata,2024-06-17,Eid al-Adha,pm25,24.843,20.872,19.0
+Kolkata,2024-06-17,Eid al-Adha,pm10,56.049,48.338,16.0
+Kolkata,2024-06-17,Eid al-Adha,no2,13.002,17.219,-24.5
+Kolkata,2024-06-17,Eid al-Adha,so2,5.145,5.029,2.3
+Kolkata,2024-06-17,Eid al-Adha,co,0.389,0.451,-13.9
+Kolkata,2024-06-17,Eid al-Adha,o3,35.409,28.183,25.6
+Kolkata,2024-08-15,Independence Day,pm25,31.944,24.385,31.0
+Kolkata,2024-08-15,Independence Day,pm10,57.352,50.731,13.0
+Kolkata,2024-08-15,Independence Day,no2,17.165,16.969,1.2
+Kolkata,2024-08-15,Independence Day,so2,5.941,5.737,3.6
+Kolkata,2024-08-15,Independence Day,co,0.555,0.53,4.7
+Kolkata,2024-08-15,Independence Day,o3,19.838,19.319,2.7
+Kolkata,2024-08-26,Janmashtami,pm25,14.522,17.604,-17.5
+Kolkata,2024-08-26,Janmashtami,pm10,37.886,44.699,-15.2
+Kolkata,2024-08-26,Janmashtami,no2,15.665,16.907,-7.4
+Kolkata,2024-08-26,Janmashtami,so2,4.268,4.189,1.9
+Kolkata,2024-08-26,Janmashtami,co,0.419,0.492,-14.8
+Kolkata,2024-08-26,Janmashtami,o3,16.305,17.819,-8.5
+Kolkata,2024-09-07,Ganesh Chaturthi,pm25,20.8,16.971,22.6
+Kolkata,2024-09-07,Ganesh Chaturthi,pm10,49.9,43.121,15.7
+Kolkata,2024-09-07,Ganesh Chaturthi,no2,21.892,22.302,-1.8
+Kolkata,2024-09-07,Ganesh Chaturthi,so2,3.822,4.239,-9.8
+Kolkata,2024-09-07,Ganesh Chaturthi,co,0.731,0.477,53.2
+Kolkata,2024-09-07,Ganesh Chaturthi,o3,22.045,19.627,12.3
+Kolkata,2024-10-02,Gandhi Jayanti,pm25,42.773,20.228,111.4
+Kolkata,2024-10-02,Gandhi Jayanti,pm10,87.283,45.077,93.6
+Kolkata,2024-10-02,Gandhi Jayanti,no2,26.798,23.462,14.2
+Kolkata,2024-10-02,Gandhi Jayanti,so2,4.11,4.333,-5.2
+Kolkata,2024-10-02,Gandhi Jayanti,co,0.81,0.579,39.9
+Kolkata,2024-10-02,Gandhi Jayanti,o3,19.97,20.418,-2.2
+Kolkata,2024-10-11,Durga Puja (Navami),pm25,13.367,39.185,-65.9
+Kolkata,2024-10-11,Durga Puja (Navami),pm10,35.144,74.071,-52.6
+Kolkata,2024-10-11,Durga Puja (Navami),no2,20.17,25.672,-21.4
+Kolkata,2024-10-11,Durga Puja (Navami),so2,4.287,4.48,-4.3
+Kolkata,2024-10-11,Durga Puja (Navami),co,0.498,0.706,-29.5
+Kolkata,2024-10-11,Durga Puja (Navami),o3,19.697,21.427,-8.1
+Kolkata,2024-10-12,Dussehra,pm25,20.199,36.121,-44.1
+Kolkata,2024-10-12,Dussehra,pm10,43.054,69.604,-38.1
+Kolkata,2024-10-12,Dussehra,no2,24.12,25.415,-5.1
+Kolkata,2024-10-12,Dussehra,so2,4.211,4.482,-6.0
+Kolkata,2024-10-12,Dussehra,co,0.547,0.692,-20.9
+Kolkata,2024-10-12,Dussehra,o3,20.848,21.239,-1.8
+Kolkata,2024-10-31,Diwali,pm25,32.661,53.338,-38.8
+Kolkata,2024-10-31,Diwali,pm10,68.625,107.784,-36.3
+Kolkata,2024-10-31,Diwali,no2,18.184,21.261,-14.5
+Kolkata,2024-10-31,Diwali,so2,5.339,6.649,-19.7
+Kolkata,2024-10-31,Diwali,co,0.507,0.64,-20.8
+Kolkata,2024-10-31,Diwali,o3,23.74,25.123,-5.5
+Kolkata,2024-11-01,Day after Diwali,pm25,68.874,47.743,44.3
+Kolkata,2024-11-01,Day after Diwali,pm10,131.088,97.84,34.0
+Kolkata,2024-11-01,Day after Diwali,no2,23.953,21.35,12.2
+Kolkata,2024-11-01,Day after Diwali,so2,9.191,6.517,41.0
+Kolkata,2024-11-01,Day after Diwali,co,0.863,0.595,45.2
+Kolkata,2024-11-01,Day after Diwali,o3,31.797,25.502,24.7
+Kolkata,2024-11-15,Guru Nanak Jayanti,pm25,83.584,64.04,30.5
+Kolkata,2024-11-15,Guru Nanak Jayanti,pm10,171.287,135.922,26.0
+Kolkata,2024-11-15,Guru Nanak Jayanti,no2,30.452,29.558,3.0
+Kolkata,2024-11-15,Guru Nanak Jayanti,so2,7.952,6.873,15.7
+Kolkata,2024-11-15,Guru Nanak Jayanti,co,0.827,0.848,-2.5
+Kolkata,2024-11-15,Guru Nanak Jayanti,o3,23.606,24.34,-3.0
+Kolkata,2024-12-25,Christmas,pm25,77.388,69.529,11.3
+Kolkata,2024-12-25,Christmas,pm10,163.49,150.181,8.9
+Kolkata,2024-12-25,Christmas,no2,50.662,38.8,30.6
+Kolkata,2024-12-25,Christmas,so2,7.932,7.367,7.7
+Kolkata,2024-12-25,Christmas,co,1.092,1.085,0.6
+Kolkata,2024-12-25,Christmas,o3,18.671,24.424,-23.6
+Chennai,2024-01-26,Republic Day,pm25,32.151,27.944,15.1
+Chennai,2024-01-26,Republic Day,pm10,79.739,67.996,17.3
+Chennai,2024-01-26,Republic Day,no2,13.835,12.513,10.6
+Chennai,2024-01-26,Republic Day,so2,4.167,4.077,2.2
+Chennai,2024-01-26,Republic Day,co,0.779,0.704,10.7
+Chennai,2024-01-26,Republic Day,o3,8.735,9.985,-12.5
+Chennai,2024-03-25,Holi,pm25,17.474,18.872,-7.4
+Chennai,2024-03-25,Holi,pm10,43.025,48.837,-11.9
+Chennai,2024-03-25,Holi,no2,7.112,8.733,-18.6
+Chennai,2024-03-25,Holi,so2,4.2,4.068,3.2
+Chennai,2024-03-25,Holi,co,0.784,0.657,19.4
+Chennai,2024-03-25,Holi,o3,6.721,7.585,-11.4
+Chennai,2024-04-11,Eid ul-Fitr,pm25,22.29,18.222,22.3
+Chennai,2024-04-11,Eid ul-Fitr,pm10,47.84,45.938,4.1
+Chennai,2024-04-11,Eid ul-Fitr,no2,6.086,8.486,-28.3
+Chennai,2024-04-11,Eid ul-Fitr,so2,4.002,3.984,0.4
+Chennai,2024-04-11,Eid ul-Fitr,co,0.594,0.689,-13.8
+Chennai,2024-04-11,Eid ul-Fitr,o3,8.902,9.806,-9.2
+Chennai,2024-06-17,Eid al-Adha,pm25,15.974,14.559,9.7
+Chennai,2024-06-17,Eid al-Adha,pm10,45.955,47.376,-3.0
+Chennai,2024-06-17,Eid al-Adha,no2,12.665,13.489,-6.1
+Chennai,2024-06-17,Eid al-Adha,so2,4.506,4.254,5.9
+Chennai,2024-06-17,Eid al-Adha,co,0.862,0.93,-7.3
+Chennai,2024-06-17,Eid al-Adha,o3,11.338,11.526,-1.6
+Chennai,2024-08-15,Independence Day,pm25,7.858,11.171,-29.7
+Chennai,2024-08-15,Independence Day,pm10,17.984,36.293,-50.4
+Chennai,2024-08-15,Independence Day,no2,7.438,10.591,-29.8
+Chennai,2024-08-15,Independence Day,so2,5.579,5.566,0.2
+Chennai,2024-08-15,Independence Day,co,0.664,0.745,-10.8
+Chennai,2024-08-15,Independence Day,o3,26.252,23.212,13.1
+Chennai,2024-08-26,Janmashtami,pm25,13.138,13.73,-4.3
+Chennai,2024-08-26,Janmashtami,pm10,50.048,44.898,11.5
+Chennai,2024-08-26,Janmashtami,no2,11.271,9.554,18.0
+Chennai,2024-08-26,Janmashtami,so2,5.967,5.573,7.1
+Chennai,2024-08-26,Janmashtami,co,0.562,0.624,-9.9
+Chennai,2024-08-26,Janmashtami,o3,16.598,19.986,-17.0
+Chennai,2024-09-07,Ganesh Chaturthi,pm25,19.19,17.101,12.2
+Chennai,2024-09-07,Ganesh Chaturthi,pm10,56.252,53.339,5.5
+Chennai,2024-09-07,Ganesh Chaturthi,no2,8.129,10.455,-22.2
+Chennai,2024-09-07,Ganesh Chaturthi,so2,5.046,5.109,-1.2
+Chennai,2024-09-07,Ganesh Chaturthi,co,0.74,0.598,23.8
+Chennai,2024-09-07,Ganesh Chaturthi,o3,15.869,15.239,4.1
+Chennai,2024-10-02,Gandhi Jayanti,pm25,9.596,15.584,-38.4
+Chennai,2024-10-02,Gandhi Jayanti,pm10,37.514,41.691,-10.0
+Chennai,2024-10-02,Gandhi Jayanti,no2,7.056,9.002,-21.6
+Chennai,2024-10-02,Gandhi Jayanti,so2,5.205,5.082,2.4
+Chennai,2024-10-02,Gandhi Jayanti,co,0.572,0.651,-12.1
+Chennai,2024-10-02,Gandhi Jayanti,o3,17.222,17.197,0.1
+Chennai,2024-10-11,Durga Puja (Navami),pm25,13.285,14.843,-10.5
+Chennai,2024-10-11,Durga Puja (Navami),pm10,30.45,34.153,-10.8
+Chennai,2024-10-11,Durga Puja (Navami),no2,8.912,8.734,2.0
+Chennai,2024-10-11,Durga Puja (Navami),so2,4.517,4.918,-8.2
+Chennai,2024-10-11,Durga Puja (Navami),co,0.662,0.664,-0.3
+Chennai,2024-10-11,Durga Puja (Navami),o3,14.067,16.673,-15.6
+Chennai,2024-10-12,Dussehra,pm25,6.38,14.885,-57.1
+Chennai,2024-10-12,Dussehra,pm10,14.46,34.044,-57.5
+Chennai,2024-10-12,Dussehra,no2,5.965,9.227,-35.4
+Chennai,2024-10-12,Dussehra,so2,4.48,4.937,-9.3
+Chennai,2024-10-12,Dussehra,co,0.493,0.657,-24.9
+Chennai,2024-10-12,Dussehra,o3,14.728,16.467,-10.6
+Chennai,2024-10-31,Diwali,pm25,101.483,33.693,201.2
+Chennai,2024-10-31,Diwali,pm10,161.513,73.05,121.1
+Chennai,2024-10-31,Diwali,no2,15.335,11.775,30.2
+Chennai,2024-10-31,Diwali,so2,9.595,6.701,43.2
+Chennai,2024-10-31,Diwali,co,1.105,0.798,38.4
+Chennai,2024-10-31,Diwali,o3,17.487,19.079,-8.3
+Chennai,2024-11-01,Day after Diwali,pm25,41.446,34.235,21.1
+Chennai,2024-11-01,Day after Diwali,pm10,89.949,74.849,20.2
+Chennai,2024-11-01,Day after Diwali,no2,12.358,11.607,6.5
+Chennai,2024-11-01,Day after Diwali,so2,7.33,6.771,8.2
+Chennai,2024-11-01,Day after Diwali,co,0.641,0.812,-21.1
+Chennai,2024-11-01,Day after Diwali,o3,16.679,19.412,-14.1
+Chennai,2024-11-15,Guru Nanak Jayanti,pm25,12.159,37.993,-68.0
+Chennai,2024-11-15,Guru Nanak Jayanti,pm10,29.226,75.118,-61.1
+Chennai,2024-11-15,Guru Nanak Jayanti,no2,11.477,10.282,11.6
+Chennai,2024-11-15,Guru Nanak Jayanti,so2,6.799,6.674,1.9
+Chennai,2024-11-15,Guru Nanak Jayanti,co,0.614,0.712,-13.8
+Chennai,2024-11-15,Guru Nanak Jayanti,o3,13.791,17.434,-20.9
+Chennai,2024-12-25,Christmas,pm25,27.14,36.524,-25.7
+Chennai,2024-12-25,Christmas,pm10,41.436,63.987,-35.2
+Chennai,2024-12-25,Christmas,no2,9.378,10.303,-9.0
+Chennai,2024-12-25,Christmas,so2,6.43,6.134,4.8
+Chennai,2024-12-25,Christmas,co,0.73,0.66,10.6
+Chennai,2024-12-25,Christmas,o3,15.474,16.1,-3.9

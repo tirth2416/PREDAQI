@@ -1,0 +1,91 @@
+city,pollutant,model,pca,val_mae,test_mae,test_mae_1_6h,test_mae_24h,test_mae_48h
+Delhi,pm25,Persistence baseline,-,,82.364,45.623,67.12,83.06
+Delhi,pm25,Linear Regression (SGD),PCA 95% (10 of 16 inputs),28.684,66.174,37.574,65.048,75.601
+Delhi,pm25,Neural Network (MLP),PCA 95% (10 of 16 inputs),30.809,68.758,35.678,70.386,77.109
+Delhi,pm10,Persistence baseline,-,,104.641,64.309,85.57,106.986
+Delhi,pm10,Linear Regression (SGD),No PCA,50.749,85.755,49.99,82.598,97.609
+Delhi,pm10,Neural Network (MLP),PCA 95% (10 of 16 inputs),51.897,89.011,49.807,89.318,100.533
+Delhi,no2,Persistence baseline,-,,17.893,14.271,9.501,12.256
+Delhi,no2,Linear Regression (SGD),No PCA,6.777,11.415,9.61,9.799,11.691
+Delhi,no2,Neural Network (MLP),PCA 95% (10 of 16 inputs),6.74,11.592,8.86,10.508,11.963
+Delhi,so2,Persistence baseline,-,,2.879,2.233,2.149,2.282
+Delhi,so2,Linear Regression (SGD),No PCA,1.564,2.125,1.666,1.914,2.054
+Delhi,so2,Neural Network (MLP),No PCA,1.593,2.161,1.717,1.983,2.132
+Delhi,co,Persistence baseline,-,,0.802,0.551,0.444,0.557
+Delhi,co,Linear Regression (SGD),No PCA,0.274,0.498,0.328,0.471,0.531
+Delhi,co,Neural Network (MLP),PCA 95% (9 of 16 inputs),0.279,0.5,0.335,0.482,0.508
+Delhi,o3,Persistence baseline,-,,25.681,19.289,5.926,7.22
+Delhi,o3,Linear Regression (SGD),No PCA,6.568,9.766,9.896,6.057,7.281
+Delhi,o3,Neural Network (MLP),PCA 95% (9 of 16 inputs),6.351,9.241,8.671,6.301,7.056
+Mumbai,pm25,Persistence baseline,-,,11.133,6.429,9.491,12.376
+Mumbai,pm25,Linear Regression (SGD),PCA 95% (11 of 16 inputs),9.634,10.033,6.152,9.837,12.703
+Mumbai,pm25,Neural Network (MLP),No PCA,9.819,11.67,5.966,11.343,14.993
+Mumbai,pm10,Persistence baseline,-,,21.534,13.986,18.381,22.564
+Mumbai,pm10,Linear Regression (SGD),No PCA,18.814,19.601,11.817,18.627,23.23
+Mumbai,pm10,Neural Network (MLP),No PCA,19.49,23.944,13.286,23.788,29.489
+Mumbai,no2,Persistence baseline,-,,6.234,4.928,4.414,5.176
+Mumbai,no2,Linear Regression (SGD),PCA 95% (11 of 16 inputs),2.755,4.6,4.024,4.118,4.802
+Mumbai,no2,Neural Network (MLP),No PCA,2.847,4.856,3.692,4.622,5.591
+Mumbai,so2,Persistence baseline,-,,2.392,1.716,1.414,1.563
+Mumbai,so2,Linear Regression (SGD),No PCA,0.991,1.495,1.229,1.388,1.542
+Mumbai,so2,Neural Network (MLP),No PCA,1.05,1.516,1.169,1.47,1.693
+Mumbai,co,Persistence baseline,-,,0.184,0.132,0.121,0.146
+Mumbai,co,Linear Regression (SGD),No PCA,0.089,0.121,0.086,0.114,0.143
+Mumbai,co,Neural Network (MLP),No PCA,0.091,0.128,0.093,0.119,0.147
+Mumbai,o3,Persistence baseline,-,,31.822,22.222,9.203,10.585
+Mumbai,o3,Linear Regression (SGD),No PCA,6.973,11.316,10.939,8.724,9.771
+Mumbai,o3,Neural Network (MLP),No PCA,6.55,10.875,8.499,8.996,11.012
+Bengaluru,pm25,Persistence baseline,-,,9.001,5.563,8.014,10.732
+Bengaluru,pm25,Linear Regression (SGD),No PCA,7.391,8.609,4.889,8.348,11.1
+Bengaluru,pm25,Neural Network (MLP),PCA 95% (12 of 16 inputs),7.666,8.757,4.909,8.499,11.145
+Bengaluru,pm10,Persistence baseline,-,,19.74,12.132,17.281,23.095
+Bengaluru,pm10,Linear Regression (SGD),No PCA,14.313,18.494,10.276,17.957,23.327
+Bengaluru,pm10,Neural Network (MLP),PCA 95% (11 of 16 inputs),14.68,18.771,10.14,18.092,23.607
+Bengaluru,no2,Persistence baseline,-,,1.964,1.25,1.849,2.179
+Bengaluru,no2,Linear Regression (SGD),No PCA,1.932,1.725,1.151,1.717,2.067
+Bengaluru,no2,Neural Network (MLP),PCA 95% (12 of 16 inputs),1.932,1.746,1.162,1.788,2.106
+Bengaluru,so2,Persistence baseline,-,,1.106,0.874,1.086,1.163
+Bengaluru,so2,Linear Regression (SGD),No PCA,0.983,0.917,0.756,0.932,0.992
+Bengaluru,so2,Neural Network (MLP),No PCA,1.003,0.94,0.767,0.956,1.003
+Bengaluru,co,Persistence baseline,-,,0.123,0.108,0.079,0.084
+Bengaluru,co,Linear Regression (SGD),No PCA,0.108,0.074,0.068,0.068,0.071
+Bengaluru,co,Neural Network (MLP),No PCA,0.104,0.071,0.063,0.069,0.069
+Bengaluru,o3,Persistence baseline,-,,1.654,1.043,1.595,1.896
+Bengaluru,o3,Linear Regression (SGD),No PCA,2.268,1.956,1.553,1.647,1.947
+Bengaluru,o3,Neural Network (MLP),PCA 95% (11 of 16 inputs),2.306,2.125,1.707,1.708,2.053
+Kolkata,pm25,Persistence baseline,-,,22.34,13.125,15.554,19.739
+Kolkata,pm25,Linear Regression (SGD),No PCA,14.174,17.216,8.933,15.636,20.187
+Kolkata,pm25,Neural Network (MLP),No PCA,15.082,17.968,8.462,17.746,22.782
+Kolkata,pm10,Persistence baseline,-,,46.604,28.79,31.917,39.386
+Kolkata,pm10,Linear Regression (SGD),No PCA,25.382,34.901,20.192,31.884,39.387
+Kolkata,pm10,Neural Network (MLP),No PCA,26.514,37.033,19.151,35.934,45.712
+Kolkata,no2,Persistence baseline,-,,9.056,6.973,6.323,7.091
+Kolkata,no2,Linear Regression (SGD),No PCA,4.687,6.492,5.459,6.073,6.626
+Kolkata,no2,Neural Network (MLP),No PCA,4.85,7.109,5.612,6.562,7.161
+Kolkata,so2,Persistence baseline,-,,1.775,1.329,1.445,1.622
+Kolkata,so2,Linear Regression (SGD),No PCA,0.783,1.406,1.113,1.29,1.532
+Kolkata,so2,Neural Network (MLP),PCA 95% (10 of 16 inputs),0.792,1.56,1.259,1.466,1.837
+Kolkata,co,Persistence baseline,-,,0.519,0.353,0.269,0.34
+Kolkata,co,Linear Regression (SGD),No PCA,0.143,0.301,0.219,0.26,0.318
+Kolkata,co,Neural Network (MLP),PCA 95% (10 of 16 inputs),0.149,0.295,0.209,0.277,0.326
+Kolkata,o3,Persistence baseline,-,,15.987,11.044,6.198,7.32
+Kolkata,o3,Linear Regression (SGD),No PCA,3.818,6.583,5.652,5.835,6.313
+Kolkata,o3,Neural Network (MLP),No PCA,3.844,6.637,4.959,6.161,6.965
+Chennai,pm25,Persistence baseline,-,,13.882,6.465,14.262,19.028
+Chennai,pm25,Linear Regression (SGD),PCA 95% (12 of 16 inputs),9.306,14.417,7.792,14.504,18.547
+Chennai,pm25,Neural Network (MLP),PCA 95% (12 of 16 inputs),9.365,14.618,7.526,14.768,18.976
+Chennai,pm10,Persistence baseline,-,,23.363,11.909,23.184,30.218
+Chennai,pm10,Linear Regression (SGD),No PCA,21.065,23.89,13.198,24.098,29.291
+Chennai,pm10,Neural Network (MLP),PCA 95% (11 of 16 inputs),21.278,25.414,14.542,24.766,30.871
+Chennai,no2,Persistence baseline,-,,2.151,1.616,1.97,2.219
+Chennai,no2,Linear Regression (SGD),No PCA,2.499,1.853,1.499,1.775,2.003
+Chennai,no2,Neural Network (MLP),PCA 95% (11 of 16 inputs),2.598,2.108,1.837,1.945,2.021
+Chennai,so2,Persistence baseline,-,,1.155,0.908,1.136,1.174
+Chennai,so2,Linear Regression (SGD),No PCA,1.013,0.969,0.846,0.959,0.978
+Chennai,so2,Neural Network (MLP),No PCA,1.017,0.978,0.861,0.977,0.986
+Chennai,co,Persistence baseline,-,,0.12,0.09,0.115,0.128
+Chennai,co,Linear Regression (SGD),No PCA,0.148,0.103,0.082,0.099,0.109
+Chennai,co,Neural Network (MLP),No PCA,0.147,0.106,0.086,0.102,0.113
+Chennai,o3,Persistence baseline,-,,2.196,1.829,1.999,2.34
+Chennai,o3,Linear Regression (SGD),No PCA,2.644,1.895,1.585,1.893,2.216
+Chennai,o3,Neural Network (MLP),No PCA,2.746,2.054,1.599,2.096,2.386

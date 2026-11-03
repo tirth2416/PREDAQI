@@ -1,0 +1,6 @@
+city,pollutants,hours_with_valid_aqi,average_aqi
+Delhi,"pm25, pm10, no2, so2, co, o3",8769,204.4
+Mumbai,"pm25, pm10, no2, so2, co, o3",8769,78.9
+Bengaluru,"pm25, pm10, no2, so2, co, o3",8769,64.3
+Kolkata,"pm25, pm10, no2, so2, co, o3",8769,99.3
+Chennai,"pm25, pm10, no2, so2, co, o3",8769,58.8
